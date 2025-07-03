@@ -1,0 +1,52 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyTorch model checkpoints
+*.pt
+*.pth
+
+# Dataset and output directories
+datasets/
+outputs/
+checkpoints/
+logs/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Colab and IPython history
+.history
+*.ipynb_checkpoints/
+
+# System files
+ehthumbs.db
+Icon?
