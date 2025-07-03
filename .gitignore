@@ -50,3 +50,14 @@ build/
 # System files
 ehthumbs.db
 Icon?
+
+# Zip
+*.zip
+
+# images datataset directories
+
+base/
+extended/
+urban_real/
+architectural_style/
+cycleGAN_dataset/
